@@ -1,6 +1,6 @@
 <h1 align="center">Deep Learning</h1>
 <p align="center">
-  <img src="[[[https://towardsdatascience.com/training-deep-neural-networks-9fdb1964b964](https://towardsdatascience.com/training-deep-neural-networks-9fdb1964b964)](https://www.merkle.com/blog/dispelling-myths-deep-learning-vs-machine-learning](https://www.merkle.com/sites/default/files/inline-images/DL%20and%20ML1%20resized.jpg))" width="550" title="hover text">
+  <img src="https://www.merkle.com/sites/default/files/inline-images/DL%20and%20ML1%20resized.jpg" width="550" title="hover text">
 </p>
 
 ### In this notebook i used two different dataset
