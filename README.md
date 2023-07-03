@@ -1,4 +1,4 @@
-<h1 align="center">Deep Learning</h1>
+<h1 align="center">Deep Learning and Nueral Network</h1>
 <p align="center">
   <img src="https://www.merkle.com/sites/default/files/inline-images/DL%20and%20ML1%20resized.jpg" width="750" title="hover text">
 </p>
