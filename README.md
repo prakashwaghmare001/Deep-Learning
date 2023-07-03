@@ -1,11 +1,9 @@
-## Deep-Learning
+<h1 align="center">Deep Learning</h1>
+<p align="center">
+  <img src="https://towardsdatascience.com/training-deep-neural-networks-9fdb1964b964" width="550" title="hover text">
+</p>
 
 ### In this notebook i used two different dataset
-
-
-
-
-
 
 1) Forest Fire
 
@@ -29,15 +27,15 @@ Attribute Information:
 
 The explanations of sensor measurements and their brief statistics are given below.
 
-Variable (Abbr.) Unit Min Max Mean
-Ambient temperature (AT) C â€“6.23 37.10 17.71
-Ambient pressure (AP) mbar 985.85 1036.56 1013.07
-Ambient humidity (AH) (%) 24.08 100.20 77.87
-Air filter difference pressure (AFDP) mbar 2.09 7.61 3.93
-Gas turbine exhaust pressure (GTEP) mbar 17.70 40.72 25.56
-Turbine inlet temperature (TIT) C 1000.85 1100.89 1081.43
-Turbine after temperature (TAT) C 511.04 550.61 546.16
-Compressor discharge pressure (CDP) mbar 9.85 15.16 12.06
-Turbine energy yield (TEY) MWH 100.02 179.50 133.51
-Carbon monoxide (CO) mg/m3 0.00 44.10 2.37
-Nitrogen oxides (NOx) mg/m3 25.90 119.91 65.29
+1. Variable (Abbr.) Unit Min Max Mean
+2. Ambient temperature (AT) C â€“6.23 37.10 17.71
+3. Ambient pressure (AP) mbar 985.85 1036.56 1013.07
+4. Ambient humidity (AH) (%) 24.08 100.20 77.87
+5. Air filter difference pressure (AFDP) mbar 2.09 7.61 3.93
+6. Gas turbine exhaust pressure (GTEP) mbar 17.70 40.72 25.56
+7. Turbine inlet temperature (TIT) C 1000.85 1100.89 1081.43
+8. Turbine after temperature (TAT) C 511.04 550.61 546.16
+9. Compressor discharge pressure (CDP) mbar 9.85 15.16 12.06
+10. Turbine energy yield (TEY) MWH 100.02 179.50 133.51
+11. Carbon monoxide (CO) mg/m3 0.00 44.10 2.37
+12. Nitrogen oxides (NOx) mg/m3 25.90 119.91 65.29
